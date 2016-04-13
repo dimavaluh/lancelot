@@ -1,0 +1,150 @@
+.container {
+	width: 1024px;
+	margin: 0 auto;
+	position: relative;
+}
+.backgr {
+	margin-left: 100px;
+background: url(../img/backgr.jpg) center no-repeat ;
+width: 800px;
+height: 400px;
+}
+.mona {
+position: absolute;
+top: 50px;
+left: 300px;
+ font-size: 20em;
+ color: #003300
+}
+.fa-circle {
+position: absolute;
+top: 61px;
+left: 357px;
+font-size: 10em;
+color: #ffcc99;
+}
+.eye-1 {
+position: absolute;
+top: 106px;
+left: 384px;
+font-size: 2em;
+}
+.eye-2 {
+position: absolute;
+top: 106px;
+left: 434px;
+font-size: 2em;
+}
+.hair1 {
+position: absolute;
+top: 153px;
+left: 478px;
+font-size: 3em;
+}
+.hair2 {
+position: absolute;
+top: 124px;
+left: 478px;
+font-size: 3em;
+}
+.hair3 {
+position: absolute;
+top: 100px;
+left: 478px;
+font-size: 3em;
+}
+.hair4 {
+position: absolute;
+top: 75px;
+left: 467px;
+font-size: 3em;
+}
+.hair5 {
+position: absolute;
+top: 50px;
+left: 450px;
+font-size: 3em;
+}
+.hair6 {
+position: absolute;
+top: 40px;
+left: 414px;
+font-size: 3em;
+}
+.hair7 {
+position: absolute;
+top: 50px;
+left: 377px;
+font-size: 3em;
+}
+.hair8 {
+position: absolute;
+top: 75px;
+left: 345px;
+font-size: 3em;
+}
+.hair9 {
+position: absolute;
+top: 100px;
+left: 325px;
+font-size: 3em;
+}
+.hair10 {
+position: absolute;
+top: 129px;
+left: 325px;
+font-size: 3em;
+}
+.hair11 {
+position: absolute;
+top: 153px;
+left: 325px;
+font-size: 3em;
+}
+.hand1 {
+position: absolute;
+top: 275px;
+left: 370px;
+font-size: 3em;	
+color: #ffcc99;
+
+}
+.hand2 {
+position: absolute;
+top: 275px;
+left: 420px;
+font-size: 3em;	
+color: #ffcc99;
+
+}
+.fa-rotate-120 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(120deg);
+  -ms-transform: rotate(120deg);
+  transform: rotate(120deg);
+}
+.fa-rotate-330 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(250deg);
+  -ms-transform: rotate(250deg);
+  transform: rotate(250deg);
+}
+.fa-rotate-300 {
+  -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+  -webkit-transform: rotate(300deg);
+  -ms-transform: rotate(300deg);
+  transform: rotate(300deg);
+}
+.fa-chevron-left {
+position: absolute;
+top: 140px;
+left: 416px;
+font-size: 1em;	
+}
+.fa-moon-o {
+position: absolute;
+top: 158px;
+left: 411px;
+font-size: 2em;	
+}
+
